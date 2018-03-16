@@ -1,0 +1,42 @@
+[
+ {
+  "name" : "Samppa Nori",
+  "date" : "2012/01/01",
+  "role" : "Member",
+  "status" : "Active",
+  "pager" : 1
+
+ },
+ {
+  "name" : "Estavan Lykos",
+  "date" : "2012/02/01",
+  "role" : "Staff",
+  "status" : "On Leave",
+  "pager" : 2
+
+ },
+ {
+  "name" : "Chetan Mohamed",
+  "date" : "2012/02/01",
+  "role" : "Admin",
+  "status" : "Active",
+  "pager" : 3
+
+ },
+ {
+  "name" : "Derick Maximinus",
+  "date" : "2012/03/01",
+  "role" : "Member",
+  "status" : "On Vacation",
+  "pager" : 4
+
+ },
+ {
+  "name" : "Friderik Dávid",
+  "date" : "2012/01/21",
+  "role" : "Staff",
+  "status" : "Active",
+  "pager" : 5
+
+ }
+]
